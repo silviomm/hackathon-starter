@@ -1,2 +1,5 @@
-# express-angular2-starter
-Express server with Angular 2 client project starter
+# Hackathon Starter
+
+node.js server
+ionic 3.16 mobile app
+angular web app
